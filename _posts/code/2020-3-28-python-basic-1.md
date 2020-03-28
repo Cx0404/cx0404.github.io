@@ -3,7 +3,7 @@ title: "Python Basic Lesson 1"
 date: 2020-3-28 11:33:00 +0800
 url: "/code/python-basic-1"
 img: "https://imgur.com/0Il2wJ0.png"
-categories: [Code, Python]
+categories: [Cx0404, Code, Python]
 tags: [python]
 ---
 Python Basic Lesson 1

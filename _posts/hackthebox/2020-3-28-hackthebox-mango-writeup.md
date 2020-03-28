@@ -2,8 +2,8 @@
 title: "Hackthebox Mango Writeup"
 date: 2020-3-28 11:33:00 +0800
 img: "https://imgur.com/ptZmXAM.png"
-categories: [Hacking, Hackthebox]
-tags: [typography]
+categories: [Cx0404, Hacking, Hackthebox]
+tags: [hackthebox]
 ---
 Hackthebox Openadmin Writeup
 =======
