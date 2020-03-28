@@ -7,20 +7,52 @@ tags: [python]
 ---
 Python Basic Lesson 1
 
+
+# Variable in python
+
+***
+## 1. Assign values to variables
+To assign values to variables we use "="
+Syntax: < name variable > = < value of variable >
+Example:
+```python
+name = "John"
+age = 20
+```
+## 2. Assign multiple values at once
+To assign multiple values at the same time, each value is separated by ","
+Syntax: < name1 > , < name2 > = < value1 > , < value2 > 
+Syntax: < name1 > , < name2 > = < value >
+Example:
+```python
+name, age = "John", 20
+name1, name2 = "John"
+```
+## 3. Changes in value
+To change the value, we will assign the old variable name with a new value
+Syntax: < old name > = < new vale >
+Example:
+```python
+name = "John" 
+print(name) # => John
+name = "Devil"
+print(name) # => Devil
+```
+> Tips: We can convert strings into numbers or numbers into strings
 # Data types in python
 
 ***
-## - Type of string
-### + The string style is written in "" or ''
-### + Example:
+## 1. Type of string
+The string style is written in "" or ''
+Example:
 ```python
 string1 = "Full name" 
 string2 = 'My name'
 ```
-## - Type of number
-### + type of number include two types: integers and real
-### + Real numbers are separated by "."
-### + Example:
+## 2. Type of number
+Type of number include two types: integers and real
+Real numbers are separated by "."
+Example:
 ```python
 number = 1234 # type of integers
 pi = 3.14 # type of float
