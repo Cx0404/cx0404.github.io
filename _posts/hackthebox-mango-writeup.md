@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "Hackthebox Mango Writeup"
 date: 2020-3-28 11:33:00 +0800
 img: "https://imgur.com/ptZmXAM.png"
@@ -6,6 +7,15 @@ categories: [Blogging, Demo]
 tags: [typography]
 ---
 Hackthebox Openadmin Writeup
+=======
+title: "Hackthebox Openadmin Writeup"
+date: 2020-3-28 11:33:00 +0800
+img: "https://imgur.com/0Il2wJ0.png"
+categories: [Blogging, Demo]
+tags: [typography]
+---
+Hackthebox Mango Writeup
+>>>>>>> e9ef4b8006552b8a937d68f1a04caa6c76bcb625
 
 ## Titles
 
