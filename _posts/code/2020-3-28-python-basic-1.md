@@ -1,24 +1,30 @@
 ---
 title: "Python Basic Lesson 1"
 date: 2020-3-28 11:33:00 +0800
-url: "/code/python-basic-1"
 img: "https://imgur.com/0Il2wJ0.png"
 categories: [Cx0404, Code, Python]
 tags: [python]
 ---
 Python Basic Lesson 1
 
-## Titles
+# Data types in python
 
 ***
-# H1
-
-<h2 data-toc-skip>H2</h2>
-
-<h3 data-toc-skip>H3</h3>
-
-#### H4
-
+## - Type of string
+### + The string style is written in "" or ''
+### + Example:
+```python
+string1 = "Full name" 
+string2 = 'My name'
+```
+## - Type of number
+### + type of number include two types: integers and real
+### + Real numbers are separated by "."
+### + Example:
+```python
+number = 1234 # type of integers
+pi = 3.14 # type of float
+```
 ***
 
 ## Paragraph
