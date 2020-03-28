@@ -1,11 +1,11 @@
 ---
 title: "Hackthebox Mango Writeup"
-date: 2019-08-08 11:33:00 +0800
-img: "https://imgur.com/0Il2wJ0.png"
+date: 2020-3-28 11:33:00 +0800
+img: "https://imgur.com/ptZmXAM.png"
 categories: [Blogging, Demo]
 tags: [typography]
 ---
-Hackthebox Mango Writeup
+Hackthebox Openadmin Writeup
 
 ## Titles
 
