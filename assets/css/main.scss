@@ -75,7 +75,9 @@ body {
 $tab-height: 3.3rem;
 $tab-cursor-height: 1.6rem;
 $tab-count: {{ site.data.tabs | size }};
-
+a {
+  text-decoration:none !important;
+}
 #sidebar {
   @include pl-pr(0);
   position: fixed;
