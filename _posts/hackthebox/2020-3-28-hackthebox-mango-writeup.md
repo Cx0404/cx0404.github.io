@@ -1,24 +1,109 @@
 ---
-title: "Python Basic Lesson 2"
-date: 2020-3-28 17:33:00 +0800
+title: "Hackthebox Mango Writeup"
+date: 2020-3-28 11:33:00 +0800
 img: "https://imgur.com/0Il2wJ0.png"
-categories: [Cx0404, Code, Python]
-tags: [python]
+categories: [Cx0404, Hacking, Hackthebox]
+tags: [nosql_injection]
 ---
-Python Basic Lesson 2
+Python Basic Lesson 1
 
-## Titles
 
-***
-# H1
-
-<h2 data-toc-skip>H2</h2>
-
-<h3 data-toc-skip>H3</h3>
-
-#### H4
+# Variable in python
 
 ***
+## 1. Assign values to variables
+
+To assign values to variables we use "="
+
+Syntax: < name variable > = < value of variable >
+
+Example:
+
+```python
+name = "John"
+age = 20
+```
+## 2. Assign multiple values at once
+
+To assign multiple values at the same time, each value is separated by ","
+
+Syntax: < name1 > , < name2 > = < value1 > , < value2 > 
+
+Syntax: < name1 > , < name2 > = < value >
+
+Example:
+
+```python
+name, age = "John", 20
+name1, name2 = "John"
+```
+## 3. Changes in value
+
+To change the value, we will assign the old variable name with a new value
+
+Syntax: < old name > = < new vale >
+
+Example:
+
+```python
+name = "John" 
+print(name) # => Output: John
+name = "Devil"
+print(name) # => Output: Devil
+```
+
+# Data types in python
+
+***
+## 1. Type of string
+
+The string style is written in "" or ''
+
+Example:
+
+```python
+string1 = "Full name" 
+string2 = 'My name'
+```
+
+## 2. Type of number
+
+Type of number include two types: integers and real
+
+Real numbers are separated by "."
+
+Example:
+
+```python
+number = 1234 # type of integers
+pi = 3.14 # type of float
+```
+## 3. Case type in python
+
+In python, we can cast types from number to string, or from integer to real
+
+Example:
+
+```python
+# convert string to number
+string = "10"
+string = int(string)
+print(type(string)) # => Output: <class 'int'>
+
+# convert number to string
+num = 20 
+num = str(num)
+print(type(num)) # => Output: <class 'str'>
+
+# conver number to float
+num1 = 30
+num1 = float(num1)
+print(type(num1)) # => Output: <class 'float'>
+```
+
+## 4. Type of list
+
+
 
 ## Paragraph
 
